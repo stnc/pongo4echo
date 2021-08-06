@@ -1,4 +1,4 @@
-Pongo2echo
+Pongo4echo
 =========
 
 Package pongo2echo is a template renderer that can be used with the minimalist Go web framework
@@ -24,7 +24,7 @@ Usage
 
 Real Example [echo+pongo+gorm+pagination]
 
-https://github.com/stnc/golang-echo-realworld-example-web-app (pongo v2)
+https://github.com/stnc/golang-echo-realworld-example-web-app (pongo v2 Compatible)
 
 ![Screen](https://raw.githubusercontent.com/stnc/pongo2echo/master/example/echoScreen.png)
  
